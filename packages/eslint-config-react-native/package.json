@@ -20,7 +20,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@babel/core": "^7.20.0",
+    "@babel/core": "^7.26.10",
     "@babel/eslint-parser": "^7.20.0",
     "@react-native/eslint-plugin": "0.74.85",
     "@typescript-eslint/eslint-plugin": "^7.1.1",
